@@ -1,0 +1,57 @@
+.fixed-top {
+   background-color: #ffffff;
+ 
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  color: #989898;
+}
+
+
+
+#HOME {
+	background: url(../img/background.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: #ffffff;
+	margin-top: 62px;
+	padding-bottom: 50px;
+}
+
+#HOME button {
+    background-color: #99c50a;
+    color: #ffffff;
+    padding: 10px 35px;
+    border-radius: 15px;
+    border: none;
+    margin:78px 0;
+}
+
+#HOWITWORKS {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+#HOWITWORKS img {
+	margin-bottom: 50px;
+}
+
+#HOWITWORKS h2 {
+	margin-bottom: 60px;
+	color: #515151;
+}
+
+#HOWITWORKS p {
+	color: #919191;
+	margin-bottom: 40px;
+	padding: 0 50px;
+}
+
+.inside-1{
+	background-color: #e2f8ff;
+}
+
+.inside-2 {
+	background-color: #f5f9eb;
+}
